@@ -301,3 +301,4 @@ html,body{overflow-x:hidden}
   .article-split .im{min-height:60vh;order:-1}
 }
 .hero-split,.article-split{padding:0!important}
+.founders-img img{aspect-ratio:2/3!important;object-position:center top}
