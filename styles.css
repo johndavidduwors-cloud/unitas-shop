@@ -302,3 +302,7 @@ html,body{overflow-x:hidden}
 }
 .hero-split,.article-split{padding:0!important}
 .founders-img img{aspect-ratio:2/3!important;object-position:center top}
+.card .thumb img.vial{width:78%;height:88%;object-fit:contain;mix-blend-mode:multiply}
+.banner-img img[src*="vials-row"]{object-position:center 60%}
+.vials-banner .cap{position:static;max-width:none;background:transparent;backdrop-filter:none;padding:18px 4px 0;display:flex;gap:18px;align-items:baseline;flex-wrap:wrap}
+.vials-banner img{aspect-ratio:24/8;border-radius:4px}
